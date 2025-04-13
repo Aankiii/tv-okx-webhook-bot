@@ -1,0 +1,12 @@
+{
+  "name": "tv-okx-webhook-bot",
+  "version": "1.0.0",
+  "description": "TradingView to OKX Webhook Bot",
+  "main": "api/webhook.js",
+  "scripts": {
+    "start": "node api/webhook.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
